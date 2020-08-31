@@ -1,10 +1,7 @@
+# Deploying a React App via GitHub Pages
+
+#### Get the current weather forecast anywhere!
+#### Type in a city and a country
+#### EX: (Los angeles, US), (london, uk), (Doha, qa)
+
 https://timothyfhinds.github.io/weather-react/
-
-git add *
-
-git commit -m ""
-
-npm run deploy
-
-git push -u origin master
-

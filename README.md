@@ -1,4 +1,4 @@
-# Deploying a React App via GitHub Pages
+# React Weather App
 
 #### Get the current weather forecast anywhere!
 #### Type in a city and a country
